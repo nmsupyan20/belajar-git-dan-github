@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+button {
+    color: white;
+    background-color: purple;
+    border: 1px solid black;
+    padding: 10px 15px;
+}
+
+button:active {
+    background-color: white;
+    color: purple;
+}
